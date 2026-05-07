@@ -10,6 +10,7 @@
 - Machine Learning
 - Data Analysis
 - SQL
+- Statistics
 - Git & GitHub
 
 ## Projects
