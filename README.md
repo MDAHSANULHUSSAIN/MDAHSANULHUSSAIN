@@ -1,7 +1,7 @@
 # Hi, I'm Ahsanul Hussain 👋
 
 🎓 Computer Science Student  
-📊 Aspiring Data Scientist  
+📊 Data Science Enthusiast 
 💻 Python | SQL | Machine Learning | Pandas | NumPy  
 🌱 Currently learning Deep Learning & NLP  
 
@@ -17,7 +17,7 @@
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/md-ahsanul-hussain-49656b2a4/?skipRedirect=true)
--Email:mahs212003@gmail.com
+- Email:mahs212003@gmail.com
 <!--
 **MDAHSANULHUSSAIN/MDAHSANULHUSSAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
